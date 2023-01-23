@@ -7,10 +7,6 @@
 # game is lost when food total equals zero
     # diff foods worth more (meat > fruit)
 
-# okay so i still need to add
-    # purchasing unnecessary items
-    # consumption random events
-
 
 import random
 import time
